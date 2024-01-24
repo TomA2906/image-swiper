@@ -1,3 +1,7 @@
+# Simple Image Swiper
+* Images from https://source.unsplash.com
+* still need to add a way for previous images to be removed as it causes severe preformance issues
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
